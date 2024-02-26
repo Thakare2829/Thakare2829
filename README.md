@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Ujwal and I'm a Bsc. CS student  from Nashik</h2>
+<h2 align="left">Hi 👋! My name is Ujwal </h2>
+<h4>
+As a BSc Computer Science student, I excel in C, C++, and Python programming, with hands-on expertise in robotics using ESP32 and Raspberry Pi. Proficient in SQL, database management, and computer networking, I am dedicated to continuous learning and growth, seeking new challenges to enhance my skills.<h4>
 
 ###
 
