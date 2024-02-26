@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150"  src="https://tenor.com/en-GB/view/bobs-burger-tina-belcher-fire-rage-louise-gif-12660998"/>
+<img align="right" height="150"  src="https://github.com/Thakare2829/Data-Structure-and-algorithms/blob/main/graph/tenor.gif"/>
 
 ###
 
